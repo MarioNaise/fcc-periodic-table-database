@@ -111,16 +111,16 @@ INSERT INTO public.properties VALUES (8, 15.999, -218, -183, 1);
 INSERT INTO public.properties VALUES (3, 6.94, 180.54, 1342, 2);
 INSERT INTO public.properties VALUES (4, 9.0122, 1287, 2470, 2);
 INSERT INTO public.properties VALUES (5, 10.81, 2075, 4000, 3);
-INSERT INTO public.properties VALUES (10, 20.18, -248.6, -246.1, 2);
-INSERT INTO public.properties VALUES (9, 18.998, -220, -188.1, 2);
+INSERT INTO public.properties VALUES (10, 20.18, -248.6, -246.1, 1);
+INSERT INTO public.properties VALUES (9, 18.998, -220, -188.1, 1);
 
 
 --
 -- Data for Name: types; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.types VALUES (1, 'metal');
-INSERT INTO public.types VALUES (2, 'nonmetal');
+INSERT INTO public.types VALUES (1, 'nonmetal');
+INSERT INTO public.types VALUES (2, 'metal');
 INSERT INTO public.types VALUES (3, 'metalloid');
 
 
